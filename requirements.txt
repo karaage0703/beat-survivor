@@ -1,3 +1,4 @@
 # Requirements for the Python project
 # Add your project dependencies here.
 pytest
+pyxel==1.9.18  # Retro game engineライブラリ
