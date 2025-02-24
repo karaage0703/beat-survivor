@@ -1,6 +1,5 @@
 """武器関連のクラスを定義するモジュール."""
 
-import math
 import pyxel
 from typing import Tuple
 
